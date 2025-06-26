@@ -1,0 +1,9 @@
+git status        # ver qué pasa
+git add           # preparar archivos
+git restore       # deshacer cambios
+git restore --staged   # sacar del staging
+git commit -m "..."    # confirmar cambios
+git switch rama        # cambiar de rama
+git switch -c nueva    # crear y cambiar a nueva rama
+git log		# ver commits
+git config --global alias.[NOMBRE] "[COMANDOS]"
