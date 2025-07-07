@@ -1,21 +1,3 @@
-print("hola")
-
-print("hola")
-
-print("hola")
-
-print("hola")
-
-print("hola")
-
-print("hola")
-
-print("hola")
-
-print("hola")
-
-print("hola")
-
 print("2" \
 "")
 
