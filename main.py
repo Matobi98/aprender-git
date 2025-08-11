@@ -9,3 +9,7 @@ print("4")
 print("5")
 
 print("6")
+
+print('esto no quiero tocarlo')
+print('quiero recuperar esto')
+print('esto no quiero tocarlo')
