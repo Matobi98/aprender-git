@@ -3,6 +3,5 @@ diff a/main.py b/main.py	(rejected hunks)
  print("6")
  
  print('esto no quiero tocarlo')
-+print('quiero recuperar esto')
  print('esto no quiero tocarlo')
 \ No newline at end of file
