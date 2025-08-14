@@ -1,0 +1,1 @@
+git revert             # revierte los cambios creando un nuevo commit

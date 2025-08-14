@@ -1,6 +1,7 @@
 git status        # ver qué pasa
 git add           # preparar archivos
 git restore       # deshacer cambios
+git revert             # revierte los cambios creando un nuevo commit
 git restore --staged   # sacar del staging
 git commit -m "..."    # confirmar cambios
 git switch rama        # cambiar de rama
